@@ -1,0 +1,234 @@
+@charset "UFT-8";
+@font-face {
+    font-family: 'FontePag';
+    src: url(Fontes/Montserrat-VariableFont_wght.ttf);
+}
+
+footer {
+    background-color: #FF4B00;
+    margin: auto;
+    
+
+}
+
+footer h2, footer p, footer a, footer span {
+    color: white;
+    font-family: 'FontePag';
+    line-height: normal;
+    text-align: left ;
+    
+}
+
+.footer-bottom .box-newsletter input {
+    width: 50%;
+    height: 38px;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    color: #f2f2f2;
+    font-family: 'FontePag';
+    text-align: center;
+}
+
+.footer-bottom .box-newsletter button {
+    border: none;
+    outline: none;
+    padding: 10px;
+    background-color: #151f59;
+    color: white;
+    border-radius: 12px;
+    font-family: 'FontePag';
+}
+
+footer a {
+    text-decoration: none;
+    
+}
+
+footer li {
+    list-style: none;
+    text-align: center;
+}
+
+.footer-box .lugardomapa {
+    width: 31%;
+    padding: 1%;
+    float: center;
+    margin-top: 250px;
+
+}
+
+.footer-box .nomedocurso {
+    width: 100%;
+    float: center;
+    font-size: 35px;
+    padding-left: 8%;
+    line-height: 0;
+    padding-bottom: 3%;
+    padding-top: 2%;
+
+}
+
+footer .wrapper:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
+
+
+.nomedocurso h2 {
+    padding-left: 10px;
+
+}
+
+.box-newsletter {
+    text-align: center;
+    padding: 25px;
+}
+
+.wrapper {
+    justify-content: center;
+}
+
+footer ul {
+    color: white;
+    font-family: 'FontePag';
+    text-align: center;
+    
+}
+
+.redessociais {
+    padding: 0 15px;
+}
+
+.mapa {
+   padding-right: 1%;
+    float: left;
+    padding-top: 3%;
+    
+}
+
+.destaque-h1 {  
+    padding-right: 1%;
+    float: center;
+    padding-top: 3%;
+
+}
+
+.col{  color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+.card{ color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center ;
+    width: 50%;
+    height: 250px;
+    border-radius: 0px;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    ruby-align: center;
+
+
+}
+
+
+.footer h5{color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center ;
+
+}
+.gg-facebook {
+    box-sizing: border-box;
+    position: relative;
+    display: block;
+    color: #ffffff;
+    transform: scale(var(--ggs,1));
+    width: 20px;
+    height: 20px
+}
+.footer.icons {color: rgb(255, 255, 255);
+
+
+}
+.btn_social { 
+
+	width:100%; 
+	float:left; 
+	display:flex; 
+	margin:auto; 
+}
+
+.btn_social ul  { 
+
+	width:auto; 
+	margin:auto; 
+	float:left; 
+	display:block; 
+}
+
+.btn_social ul li  { 
+
+	position:relative; 
+	background:#FF4B00; 
+	list-style:none; 
+	float:left; 
+	margin:5px; 
+	z-index:1; 
+	overflow:hidden; 
+	border-radius:3px; 
+	font-size:1.5em; 
+	text-align:left; 
+}
+
+.btn_social ul li a  { 
+
+	width:50px; 
+	height:50px; 
+	line-height:53px; 
+	display:block; 
+	text-decoration:none; 
+	color:#fff; 
+	transition:.4s;
+
+}
+
+.btn_social ul li::before { 
+
+	transition:0.4s; 
+	position:absolute; 
+	content:''; 
+	width:100%; 
+	height:100%; 
+	top:90%; 
+	left:100; 
+	background:#151856; 
+	z-index:-1; 
+	transform: scale(1); 
+	transition:.4s; 
+}
+
+.btn_social ul li:hover::before { transition:0.4s; top:0%; }
+.btn_social ul li a:hover       { color:#555555; }
+
+.nav{color: rgb(94, 5, 5);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center ;
+    text-decoration-color: #151f59;
+    
+}
+
+.navbarToggleExternalContent {color: rgb(94, 5, 5);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center ;
+    text-decoration-color: #151f59;
+
+}
+.main{ background-color: #FF4B00;
+    margin: auto;
+
+}

@@ -1,0 +1,7 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+	<title>logo-facebook-svg</title>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m480 257.4c0-123.7-100.3-224-224-224-123.7 0-224 100.3-224 224 0 111.8 81.9 204.4 189 221.2v-156.5h-56.9v-64.7h56.9v-49.4c0-56.1 33.4-87.2 84.6-87.2 24.5 0 50.2 4.4 50.2 4.4v55.2h-28.3c-27.8 0-36.5 17.2-36.5 35v42h62.1l-9.9 64.7h-52.2v156.6c107.1-16.8 189-109.5 189-221.3z"/>
+</svg>
